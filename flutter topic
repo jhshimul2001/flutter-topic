@@ -1,0 +1,28 @@
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{1}: checkout: moving from mini to main
+[33m925e22e[m[33m ([m[1;32mmini[m[33m)[m HEAD@{2}: checkout: moving from main to mini
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{3}: checkout: moving from mini to main
+[33m925e22e[m[33m ([m[1;32mmini[m[33m)[m HEAD@{4}: commit: comment
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{5}: checkout: moving from main to mini
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{7}: reset: moving to HEAD
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{8}: checkout: moving from shimul to main
+[33mdce15d5[m HEAD@{9}: commit: first commit
+[33meb1d10c[m HEAD@{10}: reset: moving to HEAD
+[33meb1d10c[m HEAD@{11}: commit: drawer
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{12}: checkout: moving from main to shimul
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{13}: checkout: moving from master to main
+[33m2847984[m HEAD@{14}: checkout: moving from master to master
+[33m2847984[m HEAD@{15}: checkout: moving from main to master
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{16}: reset: moving to HEAD
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{17}: checkout: moving from master to main
+[33m2847984[m HEAD@{18}: checkout: moving from shimul to master
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{19}: checkout: moving from main to shimul
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{20}: reset: moving to HEAD
+[33m7e06629[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mgithub/main[m[33m)[m HEAD@{21}: commit (amend): flutter topic
+[33m360de0f[m HEAD@{22}: commit (amend): flutter topic
+[33mb865337[m HEAD@{23}: commit (amend): flutter topic
+[33m2847984[m HEAD@{24}: Branch: renamed refs/heads/shimul to refs/heads/main
+[33m2847984[m HEAD@{26}: checkout: moving from master to shimul
+[33m2847984[m HEAD@{27}: commit (amend): flutter topic
+[33m24f6f79[m HEAD@{28}: commit (initial): flutter topic
