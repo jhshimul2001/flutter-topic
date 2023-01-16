@@ -44,6 +44,10 @@ dependencies:
   image_picker: ^0.8.6
   google_nav_bar: ^5.0.6
   curved_navigation_bar: ^1.0.3
+  cloud_firestore: ^4.3.1
+  firebase_core: ^2.4.1
+  firebase_storage: ^11.0.10
+  fluttertoast: ^8.1.2
 
 dev_dependencies:
   flutter_test:

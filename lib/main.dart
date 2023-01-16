@@ -7,7 +7,7 @@ import 'package:textfield/screen/profile.dart';
 import 'package:textfield/screen/tab_bar.dart';
 
 import 'package:textfield/screen/utils/BackgroundImage.dart';
-import 'package:textfield/screen/utils/check.dart';
+import 'package:textfield/screen/utils/blood_profile.dart';
 
 import 'project/webdesign_cources.dart';
 import 'projects_webdesign/gradient_color.dart';
@@ -128,6 +128,19 @@ class _HomeState extends State<Home> {
                   Navigator.push(context, MaterialPageRoute(builder: (context) =>Listviewdemo()));
                 },
                 child: Text("call"),
+              ),
+              SizedBox(height: 20,),
+              MaterialButton(color: Colors.white,
+                hoverColor: Colors.grey,
+                highlightColor: Colors.lime,
+                height: 60,
+                shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.all(Radius.circular(15))
+                ),
+                onPressed: (){
+                  Navigator.push(context, MaterialPageRoute(builder: (context) =>DateTimeImage()));
+                },
+                child: Text("Camera"),
               ),
               SizedBox(height: 20,),
               MaterialButton(color: Colors.white,
